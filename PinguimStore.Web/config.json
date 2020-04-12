@@ -1,0 +1,7 @@
+{
+
+  "ConnectionStrings": {
+    "PinguimStoreDB": "server=localhost;uid=root;pwd=Mysql702521;database=PinguimStoreDB",
+    "SqlServerConnection": ""
+  }
+}
